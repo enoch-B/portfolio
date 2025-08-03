@@ -40,3 +40,6 @@ A modern, responsive portfolio website built with pure HTML and CSS showcasing m
 1. Clone the repository:
    ```bash
    git clone https://github.com/enoch-B/portfolio.git
+
+## If you want viste live
+ [https://enoch-b.github.io/portfolio/]
